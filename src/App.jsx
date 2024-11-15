@@ -10,7 +10,7 @@ import { PonudeiPromocije } from './pages/PonudeiPromocije';
 import { Dogadaji } from './pages/Dogadaji';
 import { KorisnickiRacun } from './pages/KorisnickiRacun';
 import Shop from './pages/Shop';
-import { MojiPodaci } from './pages/mojiPodaci';
+import { MojiPodaci } from './pages/MojiPodaci';
 import { MojiRacuni } from './pages/MojiRacuni';
 import { MojeRecenzije } from './pages/MojeRecenzije';
 
