@@ -9,7 +9,7 @@ export default defineConfig({
     port: 3000,
     proxy: {
       "/api": {
-        target: "http://kvart.onrender.com",
+        target: "http://localhost:8080",
         //changeOrigin: true, // This helps in handling the CORS issue
         //secure: false,      // If your server has self-signed SSL certificates
       },
