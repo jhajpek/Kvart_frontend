@@ -9,7 +9,7 @@ export default defineConfig({
     port: 3000,
     proxy: {
       "/api": {
-        target: "http://localhost:8080",
+        target: "https://skatom2.onrender.com",
         //changeOrigin: true, // This helps in handling the CORS issue
         //secure: false,      // If your server has self-signed SSL certificates
       },
