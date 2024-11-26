@@ -9,10 +9,12 @@ export default defineConfig({
     port: 3000,
     proxy: {
       "/api": {
-        target: "https://kvartbackend4.onrender.com",
+        target: "https://skatom2.onrender.com",
         //changeOrigin: true, // This helps in handling the CORS issue
         //secure: false,      // If your server has self-signed SSL certificates
       },
     },
   },
 });
+
+

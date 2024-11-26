@@ -90,7 +90,7 @@ export function Signup() {
                   <a href="/">
                      <button id="Back" type="button" className="signup-buttons">Natrag na prijavu</button>
                   </a>
-                  <a href="https://kvartbackend4.onrender.com/oauth2/authorization/google" role="button" id="google-btn">
+                  <a href="https://skatom2.onrender.com/oauth2/authorization/google" role="button" id="google-btn">
                      <img src={googleLogo} alt="Google Logo"/>
                      <span>Google registracija</span>
                   </a>
